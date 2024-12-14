@@ -1,0 +1,27 @@
+[
+  {
+    "videoId": "0qokNKi_h54",
+    "channelId": "UC54JqsuIbMw_d1Ieb4hjKoQ",
+    "channelName": "みけねこch",
+    "videoTitle": "【オリジナルMV】おまじない",
+    "videoViews": 86281
+  },
+  {
+    "videoId": "0qokNKi_h54",
+    "channelId": "UC54JqsuIbMw_d1Ieb4hjKoQ",
+    "channelName": "みけねこch",
+    "videoTitle": "【オリジナルMV】おまじない",
+    "videoViews": 86281
+  }
+]
+
+
+   "https://invidious.rocks"
+   
+     "https://invidious.adminforge.de",
+     
+     
+      let ip = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
+    if (ip.includes("112.109") && !req.path.includes('block')) {
+        return res.redirect("/block/cc3q");
+    }
